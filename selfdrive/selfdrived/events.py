@@ -401,7 +401,7 @@ EVENTS: dict[int, dict[str, Alert | AlertCallbackType]] = {
   # See https://github.com/commaai/openpilot/wiki/Fingerprinting for more information
   EventName.carUnrecognized: {
     ET.PERMANENT: NormalPermanentAlert("Dashcam Mode",
-                                       "Car Unrecognized",
+                                       "watz diz fermWHERE???",
                                        priority=Priority.LOWEST),
   },
 
